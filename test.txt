@@ -1,0 +1,18 @@
+section: dd
+test: Bmv vs Mers
+task: sd
+Pisun true lox false sd true
+task: sd
+Pisun true lox false sd true
+section: ff
+test: hui
+task: gg
+d true f false g false
+task: g22
+d true f false g false 
+section: s
+test: ff
+task: gg
+d true f false g false 
+task: gg1
+d true f false g false 
